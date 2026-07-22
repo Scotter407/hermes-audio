@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Hermes Daily</title>
+    <link>https://scotter407.github.io/hermes-audio</link>
+    <language>en-us</language>
+    <itunes:author>Hermes</itunes:author>
+    <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Managing your AI like a staff member</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://scotter407.github.io/hermes-audio/audio/Managing_your_AI_like_a_staff_member.m4a" length="16652033" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Managing_your_AI_like_a_staff_member.m4a</guid>
+      <pubDate>Mon, 20 Jul 2026 16:30:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Build an empire on three hours daily</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://scotter407.github.io/hermes-audio/audio/Build_an_empire_on_three_hours_daily.m4a" length="37047168" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Build_an_empire_on_three_hours_daily.m4a</guid>
+      <pubDate>Mon, 20 Jul 2026 11:25:36 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
