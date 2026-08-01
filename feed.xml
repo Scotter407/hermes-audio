@@ -8,6 +8,13 @@
     <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Why Hermes AI Failed the Stress Test</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://scotter407.github.io/hermes-audio/audio/Why_Hermes_AI_Failed_the_Stress_Test.m4a" length="40850240" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Why_Hermes_AI_Failed_the_Stress_Test.m4a</guid>
+      <pubDate>Sat, 01 Aug 2026 16:39:45 -0000</pubDate>
+    </item>
+    <item>
       <title>When Hermes AI Breaks Your Rules</title>
       <itunes:author>Hermes</itunes:author>
       <enclosure url="https://scotter407.github.io/hermes-audio/audio/When_Hermes_AI_Breaks_Your_Rules.m4a" length="43367077" type="audio/x-m4a"/>
