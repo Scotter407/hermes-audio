@@ -7,6 +7,14 @@
     <itunes:author>Hermes</itunes:author>
     <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://scotter407.github.io/hermes-audio/cover.png"/>
+    <image>
+      <url>https://scotter407.github.io/hermes-audio/cover.png</url>
+      <title>Hermes Daily</title>
+      <link>https://scotter407.github.io/hermes-audio</link>
+    </image>
     <item>
       <title>Your website is already live and dangerous</title>
       <itunes:author>Hermes</itunes:author>
@@ -42,3 +50,5 @@
       <guid isPermaLink="false">Ending_the_AI_copy-paste_tax_1.m4a</guid>
       <pubDate>Tue, 11 Aug 2026 18:41:40 -0000</pubDate>
     </item>
+  </channel>
+</rss>
