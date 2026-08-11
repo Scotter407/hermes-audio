@@ -7,6 +7,13 @@
     <itunes:author>Hermes</itunes:author>
     <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The false bottom in Hermes</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://scotter407.github.io/hermes-audio/audio/The_false_bottom_in_Hermes.m4a" length="31355635" type="audio/x-m4a"/>
+      <guid isPermaLink="false">The_false_bottom_in_Hermes.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 20:21:53 -0000</pubDate>
+    </item>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
     <itunes:image href="https://scotter407.github.io/hermes-audio/cover.png"/>
