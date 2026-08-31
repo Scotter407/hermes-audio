@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Hermes Daily</title>
+    <link>https://scotter407.github.io/hermes-audio</link>
+    <language>en-us</language>
+    <itunes:author>Hermes</itunes:author>
+    <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Rewiring Your Subconscious Pickleball Habits</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Rewiring_Your_Subconscious_Pickleball_Habits.m4a" length="35927641" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Rewiring_Your_Subconscious_Pickleball_Habits.m4a</guid>
+      <pubDate>Wed, 19 Aug 2026 20:07:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why Claude Code replaced the Hermes orchestrator</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Why_Claude_Code_replaced_the_Hermes_orchestrator.m4a" length="36690715" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Why_Claude_Code_replaced_the_Hermes_orchestrator.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 21:41:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Attention Tax of Free Guest WiFi 1</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/The_Attention_Tax_of_Free_Guest_WiFi_1.m4a" length="37789957" type="audio/x-m4a"/>
+      <guid isPermaLink="false">The_Attention_Tax_of_Free_Guest_WiFi_1.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 21:40:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Giving AI full control of my Mac</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Giving_AI_full_control_of_my_Mac.m4a" length="30839946" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Giving_AI_full_control_of_my_Mac.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 21:40:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>The 99 percent trap of AI automation</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/The_99_percent_trap_of_AI_automation.m4a" length="47359265" type="audio/x-m4a"/>
+      <guid isPermaLink="false">The_99_percent_trap_of_AI_automation.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 20:51:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>The false bottom in Hermes</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/The_false_bottom_in_Hermes.m4a" length="31355635" type="audio/x-m4a"/>
+      <guid isPermaLink="false">The_false_bottom_in_Hermes.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 20:21:53 -0000</pubDate>
+    </item>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://scotter407.github.io/hermes-audio/cover.png"/>
+    <image>
+      <url>https://scotter407.github.io/hermes-audio/cover.png</url>
+      <title>Hermes Daily</title>
+      <link>https://scotter407.github.io/hermes-audio</link>
+    </image>
+    <item>
+      <title>Your website is already live and dangerous</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Your_website_is_already_live_and_dangerous_1.m4a" length="32174737" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Your_website_is_already_live_and_dangerous_1.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 18:45:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Why Meta ads break solo lodges</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Why_Meta_ads_break_solo_lodges.m4a" length="37966374" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Why_Meta_ads_break_solo_lodges.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 18:45:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Risking security for a screen-free morning</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Risking_security_for_a_screen-free_morning.m4a" length="31497664" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Risking_security_for_a_screen-free_morning.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 18:44:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Managing 257 forgotten AI skills</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Managing_257_forgotten_AI_skills.m4a" length="34127445" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Managing_257_forgotten_AI_skills.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 18:43:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ending the AI copy-paste tax</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Ending_the_AI_copy-paste_tax_1.m4a" length="41049699" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Ending_the_AI_copy-paste_tax_1.m4a</guid>
+      <pubDate>Tue, 11 Aug 2026 18:41:40 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
