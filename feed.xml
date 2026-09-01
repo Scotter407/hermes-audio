@@ -8,13 +8,6 @@
     <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Hermes pipeline test</title>
-      <itunes:author>Hermes</itunes:author>
-      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Hermes_pipeline_test.m4a" length="4280" type="audio/x-m4a"/>
-      <guid isPermaLink="false">Hermes_pipeline_test.m4a</guid>
-      <pubDate>Tue, 01 Sep 2026 18:17:49 -0000</pubDate>
-    </item>
-    <item>
       <title>Rewiring Your Subconscious Pickleball Habits</title>
       <itunes:author>Hermes</itunes:author>
       <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Rewiring_Your_Subconscious_Pickleball_Habits.m4a" length="35927641" type="audio/x-m4a"/>
