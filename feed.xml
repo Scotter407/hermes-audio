@@ -8,6 +8,13 @@
     <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Last Inch of System Execution</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/The_Last_Inch_of_System_Execution.m4a" length="46677734" type="audio/x-m4a"/>
+      <guid isPermaLink="false">The_Last_Inch_of_System_Execution.m4a</guid>
+      <pubDate>Tue, 01 Sep 2026 20:25:21 -0000</pubDate>
+    </item>
+    <item>
       <title>Rewiring Your Subconscious Pickleball Habits</title>
       <itunes:author>Hermes</itunes:author>
       <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Rewiring_Your_Subconscious_Pickleball_Habits.m4a" length="35927641" type="audio/x-m4a"/>
