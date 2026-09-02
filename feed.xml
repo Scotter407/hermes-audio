@@ -8,6 +8,13 @@
     <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ten AI threads waiting on Scott</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Ten_AI_threads_waiting_on_Scott.m4a" length="24564113" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Ten_AI_threads_waiting_on_Scott.m4a</guid>
+      <pubDate>Wed, 02 Sep 2026 18:34:20 -0000</pubDate>
+    </item>
+    <item>
       <title>Your immune system is rusting your joints</title>
       <itunes:author>Hermes</itunes:author>
       <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Your_immune_system_is_rusting_your_joints.m4a" length="73991853" type="audio/x-m4a"/>
