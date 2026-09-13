@@ -8,6 +8,13 @@
     <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Connecting the Workshop and the Factory</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Connecting_the_Workshop_and_the_Factory.m4a" length="29433556" type="audio/x-m4a"/>
+      <guid isPermaLink="false">Connecting_the_Workshop_and_the_Factory.m4a</guid>
+      <pubDate>Sun, 13 Sep 2026 00:53:11 -0000</pubDate>
+    </item>
+    <item>
       <title>Your AI factory is running blind</title>
       <itunes:author>Hermes</itunes:author>
       <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/Your_AI_factory_is_running_blind.m4a" length="35525618" type="audio/x-m4a"/>
