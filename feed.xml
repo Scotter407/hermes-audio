@@ -8,6 +8,13 @@
     <description>Scott's daily NotebookLM audio, auto-published by Hermes.</description>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The database bomb at Twain Harte Lodge</title>
+      <itunes:author>Hermes</itunes:author>
+      <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/The_database_bomb_at_Twain_Harte_Lodge.m4a" length="30101640" type="audio/x-m4a"/>
+      <guid isPermaLink="false">The_database_bomb_at_Twain_Harte_Lodge.m4a</guid>
+      <pubDate>Mon, 14 Sep 2026 20:15:20 -0000</pubDate>
+    </item>
+    <item>
       <title>The Fidelity Illusion of Inherited IRAs</title>
       <itunes:author>Hermes</itunes:author>
       <enclosure url="https://github.com/Scotter407/hermes-audio/releases/download/episodes/The_Fidelity_Illusion_of_Inherited_IRAs.m4a" length="34645259" type="audio/x-m4a"/>
